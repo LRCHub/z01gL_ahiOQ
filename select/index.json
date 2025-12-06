@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Ginger",
+  "base_artist": "TOMOO",
+  "createdAt": "2025-12-06T16:20:06.481069Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ginger Claps",
+      "artist": "Machine Girl",
+      "has_synced": true,
+      "path": "select/01_Ginger_Claps_Machine_Girl.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ginger",
+      "artist": "Lilys",
+      "has_synced": false,
+      "path": "select/02_Ginger_Lilys.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ginger",
+      "artist": "Hooverphonic",
+      "has_synced": true,
+      "path": "select/03_Ginger_Hooverphonic.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ginger Pubes",
+      "artist": "Cookie Monsta",
+      "has_synced": false,
+      "path": "select/04_Ginger_Pubes_Cookie_Monsta.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ginger",
+      "artist": "Xandria",
+      "has_synced": true,
+      "path": "select/05_Ginger_Xandria.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Martha's Foolish Ginger",
+      "artist": "Tori Amos",
+      "has_synced": true,
+      "path": "select/06_Martha's_Foolish_Ginger_Tori_Amos.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Ginger",
+      "artist": "Twin Sister",
+      "has_synced": true,
+      "path": "select/07_Ginger_Twin_Sister.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Jack & Ginger",
+      "artist": "We Are Scientists",
+      "has_synced": true,
+      "path": "select/08_Jack_&_Ginger_We_Are_Scientists.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Ginger Park",
+      "artist": "50 Foot Wave",
+      "has_synced": false,
+      "path": "select/09_Ginger_Park_50_Foot_Wave.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ginger Snaps",
+      "artist": "Blue Öyster Cult",
+      "has_synced": false,
+      "path": "select/10_Ginger_Snaps_Blue_Öyster_Cult.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Pickled Ginger",
+      "artist": "Wilco",
+      "has_synced": true,
+      "path": "select/11_Pickled_Ginger_Wilco.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Ginger - Remix",
+      "artist": "Hooverphonic",
+      "has_synced": false,
+      "path": "select/12_Ginger_-_Remix_Hooverphonic.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Ginger (Remix)",
+      "artist": "Hooverphonic",
+      "has_synced": false,
+      "path": "select/13_Ginger_(Remix)_Hooverphonic.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Martha's Foolish Ginger (Album Version)",
+      "artist": "Tori Amos",
+      "has_synced": true,
+      "path": "select/14_Martha's_Foolish_Ginger_(Album_Version)_Tori_Amos.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Ginger",
+      "artist": "TOMOO",
+      "has_synced": false,
+      "path": "select/pl_01_Ginger_TOMOO.txt"
+    }
+  ]
+}
